@@ -20,7 +20,7 @@ node index.js
 ```
 ## To get result
 
-Send POST request to [http://localhost:5000](http://localhost:5000)
+Send POST request to [http://localhost:5000/calculate-tax](http://localhost:5000/calculate-tax)
 
 Example request
 
